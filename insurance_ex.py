@@ -10,3 +10,6 @@ maria_insurance_cost = calculate_insurance_cost(28, 0, 26.2, 3, 0, "Maria")
 
 # Estimate Omar's insurance cost 
 omar_insurance_cost = calculate_insurance_cost(35, 1, 22.2, 0, 1, "Omar")
+
+# Estimate Carlos's insurance cost
+carlos_insurance_cost = calculate_insurance_cost(26, 1, 23.4, 0, 0, "Carlos")
